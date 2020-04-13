@@ -1,5 +1,8 @@
 # a_star_algorithm
-My version of A-Star algorithm made in Python using pygame
+My version of A-Star algorithm made in Python using pygame.
+
+A-star algorithm is an important path finding algorithm used in computer science to perform graph search and path finding.
+
 
 How to run:
 
@@ -10,6 +13,12 @@ How to run:
 - Select a seventh square that will be yellow
 - Now wait for the program to find the smallest path between blue and yellow square
 - The path will be painted in yellow
+
+To do:
+- Make a GUI
+- Make a larger grid
+
+
 
 
 
